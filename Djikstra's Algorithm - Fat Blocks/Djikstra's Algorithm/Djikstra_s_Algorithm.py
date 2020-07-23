@@ -431,6 +431,4 @@ def driver():
 
 #Starts the main driver program
 driver()
-print("Running Again")
-print("Holy Crap")
-print("OMG")
+
