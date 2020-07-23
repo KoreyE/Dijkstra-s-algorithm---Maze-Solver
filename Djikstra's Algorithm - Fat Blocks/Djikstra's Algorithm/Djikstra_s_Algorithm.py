@@ -3,8 +3,6 @@ import sys, pygame
 #Intializing Pygame window and colors
 pygame.init()
 pygame.font.init()
-icon = pygame.image.load("Icon.PNG")
-pygame.display.set_icon(icon)
 pygame.display.set_caption("Dijkstra's algorithm - Maze Solver")
 width = 1280
 height = 720
