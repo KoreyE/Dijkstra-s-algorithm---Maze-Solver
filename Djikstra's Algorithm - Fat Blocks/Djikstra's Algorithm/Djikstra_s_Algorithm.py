@@ -1,3 +1,4 @@
+#Written by Korey Everham
 import sys, pygame
 
 #Intializing Pygame window and colors
